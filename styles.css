@@ -1,0 +1,88 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww29200\viewh17840\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 * \{\
+  margin: 0;\
+  padding: 0;\
+  box-sizing: border-box;\
+\}\
+\
+body \{\
+  font-family: Arial, sans-serif;\
+  background-color: #f0f0f0;\
+  color: #333;\
+  padding: 20px;\
+\}\
+\
+header \{\
+  text-align: center;\
+  margin-bottom: 30px;\
+\}\
+\
+h1 \{\
+  font-size: 2.5rem;\
+  color: #444;\
+\}\
+\
+form section \{\
+  background: white;\
+  border-radius: 10px;\
+  padding: 20px;\
+  margin-bottom: 20px;\
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\
+\}\
+\
+form h2 \{\
+  margin-bottom: 15px;\
+  color: #005aab;\
+\}\
+\
+.question \{\
+  margin-bottom: 15px;\
+\}\
+\
+.question label \{\
+  font-weight: bold;\
+\}\
+\
+input[type="radio"] \{\
+  margin-right: 10px;\
+\}\
+\
+.submit \{\
+  text-align: center;\
+  margin-top: 20px;\
+\}\
+\
+button \{\
+  background-color: #005aab;\
+  color: white;\
+  padding: 10px 20px;\
+  border: none;\
+  border-radius: 5px;\
+  cursor: pointer;\
+\}\
+\
+button:hover \{\
+  background-color: #003f7f;\
+\}\
+\
+#result \{\
+  background-color: #fff;\
+  padding: 20px;\
+  border-radius: 10px;\
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\
+  text-align: center;\
+  margin-top: 20px;\
+\}\
+\
+.hidden \{\
+  display: none;\
+\}\
+\
+}
